@@ -23,6 +23,9 @@
     ashmemd
     ashmem_device_service
     attention_service
+    binderfs
+    binderfs_logs
+    binderfs_logs_proc
     biometric_service
     bluetooth_audio_hal_prop
     bpf_progs_loaded_prop
